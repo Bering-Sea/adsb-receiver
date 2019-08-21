@@ -600,7 +600,7 @@ else
     fi
     echo -e "\e[94m  Cloning the AboveTustin git repository locally...\e[97m"
     echo -e ""
-    git clone https://github.com/kevinabrandon/AboveTustin.git "${RECEIVER_BUILD_DIRECTORY}/abovetustin/AboveTustin" 2>&1
+    git clone https://github.com/Bering-Sea/AboveTustin.git "${RECEIVER_BUILD_DIRECTORY}/abovetustin/AboveTustin" 2>&1
     echo -e ""
 fi
 
